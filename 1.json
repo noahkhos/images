@@ -1,0 +1,201 @@
+{
+    "limit": 12,
+    "currentPage": 1,
+    "count": 41,
+    "data": {
+        "parent": {
+            "id": "1j2ju",
+            "name": "Standard Range ",
+            "description": "",
+            "image": {
+                "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/tree_catalog/1j2ju_image_original.s6wjv7rvx2.png",
+                "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/tree_catalog/1j2ju_image_512.bntto6ya7p7.png",
+                "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/tree_catalog/1j2ju_image_256.dp4gtou9sw.png"
+            }
+        },
+        "catalogs": [],
+        "products": [
+            {
+                "id": "2dr2b",
+                "name": {
+                    "default": "Almond (S) Y56 Merino "
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2b_image_original.f0hnxcjxkkb.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2b_image_256.oggibi78txk.png",
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2b_image_512.102321xgj95.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2drmm",
+                "name": {
+                    "default": "Camo (L) N43 Pipeline Grey"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmm_image_512.8fhynqbrcfd.png",
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmm_image_original.35zytah7gxe.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmm_image_256.t2fwsl9ut9a.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2drox",
+                "name": {
+                    "default": "Camo (N) N43 Pipeline Grey"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drox_image_256.8qjjiysm0x9.png",
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drox_image_original.nfqk40l126r.png",
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drox_image_512.e08aul2atoh.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "lr0b",
+                "name": {
+                    "default": "Ash (N) N43 Pipeline Grey"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_thumbnail_512__d5a77f3f.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_thumbnail_256__aafc3454.png",
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_original__e0a6c434.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2dr2l",
+                "name": {
+                    "default": "Ash (S) N23 Neutral Grey"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2l_image_original.0kzxdi4lbqb.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2l_image_256.9hr0qg97shj.png",
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2l_image_512.kfb1sbjirvd.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2droj",
+                "name": {
+                    "default": "Camo (S) N14 White"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2droj_image_256.kwl59zdbzz.png",
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2droj_image_512.qu5lj2mmgm.png",
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2droj_image_original.0tos4zh971l.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2drq8",
+                "name": {
+                    "default": "Ash (S) N43 Pipeline Grey"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drq8_image_original.pspu2bu4s89.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drq8_image_256.e1ny9wpca48.png",
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drq8_image_512.2rmtzs2gt04.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2dro6",
+                "name": {
+                    "default": "Camo (S) N43 Pipeline Grey"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dro6_image_512.gk7yw2xu5s5.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dro6_image_256.xgrdezfgjoo.png",
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dro6_image_original.hb81jawjs47.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2drpu",
+                "name": {
+                    "default": "Biscuit (S) Y56 Merino "
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drpu_image_256.o2i96tt957c.png",
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drpu_image_512.e5z1zb9zh.png",
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drpu_image_original.hzr21ffo5gb.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2drnt",
+                "name": {
+                    "default": "Capri (S) Y56 Merino"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drnt_image_512.fnu5pe2whz.png",
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drnt_image_original.qw8bab92og.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drnt_image_256.g7r9kbcn8mn.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2drro",
+                "name": {
+                    "default": "Blue Storm (L) N23 Neutral Grey"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drro_image_original.j7r0w5trh7.png",
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drro_image_512.969ejgohhmc.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drro_image_256.7yxcfgaaay.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            },
+            {
+                "id": "2drj9",
+                "name": {
+                    "default": "Carbon Black (S) N61 Black"
+                },
+                "visibleOnLite": true,
+                "type": "epoxy",
+                "image": {
+                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drj9_image_original.k9ejbjtxxop.png",
+                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drj9_image_256.42ej3uzj8zv.png",
+                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drj9_image_512.7oqyh6fso6l.png"
+                },
+                "rgbaColor": null,
+                "labels": []
+            }
+        ]
+    },
+    "pages": 4
+}
