@@ -1,636 +1,1521 @@
 {
-    "limit": 41,
-    "currentPage": 1,
-    "count": 41,
-    "data": {
-        "parent": {
-            "id": "1j2ju",
-            "name": "Standard Range ",
-            "description": "",
-            "image": {
-                "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/tree_catalog/1j2ju_image_original.s6wjv7rvx2.png",
-                "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/tree_catalog/1j2ju_image_512.bntto6ya7p7.png",
-                "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/tree_catalog/1j2ju_image_256.dp4gtou9sw.png"
-            }
+  "textures": [
+    {
+      "name": "Almond (S) Y56 Merino",
+      "image": "/AlmondY56Merino.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
         },
-        "catalogs": [],
-        "products": [
-            {
-                "id": "2dr2b",
-                "name": {
-                    "default": "Almond (S) Y56 Merino "
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2b_image_original.f0hnxcjxkkb.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2b_image_256.oggibi78txk.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2b_image_512.102321xgj95.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drmm",
-                "name": {
-                    "default": "Camo (L) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmm_image_512.8fhynqbrcfd.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmm_image_original.35zytah7gxe.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmm_image_256.t2fwsl9ut9a.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drox",
-                "name": {
-                    "default": "Camo (N) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drox_image_256.8qjjiysm0x9.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drox_image_original.nfqk40l126r.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drox_image_512.e08aul2atoh.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "lr0b",
-                "name": {
-                    "default": "Ash (N) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_thumbnail_512__d5a77f3f.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_thumbnail_256__aafc3454.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_original__e0a6c434.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2dr2l",
-                "name": {
-                    "default": "Ash (S) N23 Neutral Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2l_image_original.0kzxdi4lbqb.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2l_image_256.9hr0qg97shj.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dr2l_image_512.kfb1sbjirvd.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2droj",
-                "name": {
-                    "default": "Camo (S) N14 White"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2droj_image_256.kwl59zdbzz.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2droj_image_512.qu5lj2mmgm.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2droj_image_original.0tos4zh971l.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drq8",
-                "name": {
-                    "default": "Ash (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drq8_image_original.pspu2bu4s89.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drq8_image_256.e1ny9wpca48.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drq8_image_512.2rmtzs2gt04.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2dro6",
-                "name": {
-                    "default": "Camo (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dro6_image_512.gk7yw2xu5s5.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dro6_image_256.xgrdezfgjoo.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dro6_image_original.hb81jawjs47.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drpu",
-                "name": {
-                    "default": "Biscuit (S) Y56 Merino "
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drpu_image_256.o2i96tt957c.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drpu_image_512.e5z1zb9zh.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drpu_image_original.hzr21ffo5gb.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drnt",
-                "name": {
-                    "default": "Capri (S) Y56 Merino"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drnt_image_512.fnu5pe2whz.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drnt_image_original.qw8bab92og.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drnt_image_256.g7r9kbcn8mn.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drro",
-                "name": {
-                    "default": "Blue Storm (L) N23 Neutral Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drro_image_original.j7r0w5trh7.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drro_image_512.969ejgohhmc.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drro_image_256.7yxcfgaaay.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drj9",
-                "name": {
-                    "default": "Carbon Black (S) N61 Black"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drj9_image_original.k9ejbjtxxop.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drj9_image_256.42ej3uzj8zv.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drj9_image_512.7oqyh6fso6l.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drsa",
-                "name": {
-                    "default": "Blue Storm (L) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drsa_image_original.mu0593emjt.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drsa_image_256.o0qm4znyzkk.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drsa_image_512.l8l5gmox3lc.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drjw",
-                "name": {
-                    "default": "Cookies&Cream (L) N14 White"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjw_image_256.y28qi7pzyp.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjw_image_512.mllsbv64r7m.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjw_image_original.dnb704fnqn.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drsn",
-                "name": {
-                    "default": "Bullseye (J) N14 White"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drsn_image_256.zuj2hirk15.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drsn_image_512.piqsbuwk6nb.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drsn_image_original.o4gkoizp88c.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drjv",
-                "name": {
-                    "default": "Cookies&Cream (L) N23 Neutral Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjv_image_original.mlk0octbh8j.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjv_image_512.dtvk1syc9zs.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjv_image_256.or0p42jr8fm.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drph",
-                "name": {
-                    "default": "Bullseye (J) N61 Black"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drph_image_256.pm5qq5ioa0o.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drph_image_512.otcs88uvx5.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drph_image_original.h4g0dha25z.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drji",
-                "name": {
-                    "default": "Cookies&Cream (S) N14 White"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drji_image_256.fh0c67irwrb.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drji_image_512.7xp970v4hp.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drji_image_original.3etisgnow8m.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drra",
-                "name": {
-                    "default": "Bullseye (L) N14 White"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drra_image_256.ugqoiyke478.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drra_image_original.6ptyw4e7q1x.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drra_image_512.1ego2u8lq7f.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drjm",
-                "name": {
-                    "default": "Cookies&Cream (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjm_image_512.q0iaq2k96p.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjm_image_original.bt33g36j9al.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drjm_image_256.hjpvipon5ht.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drn4",
-                "name": {
-                    "default": "Bullseye (L) N23 Neutral Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drn4_image_256.6a2eayl8b36.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drn4_image_512.nznzmq8tml.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drn4_image_original.f4luxrcqij.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2driv",
-                "name": {
-                    "default": "Desert (S) N14 White"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2driv_image_256.ayygckf12tq.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2driv_image_512.w2dg7t6dbf.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2driv_image_original.im92exwuk8m.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drmz",
-                "name": {
-                    "default": "Camo (L) N14 White"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmz_image_256.zzmosic8x8p.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmz_image_original.l45hec7tl9q.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drmz_image_512.5fvpqdjk88f.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2dri9",
-                "name": {
-                    "default": "Eggshell (S) Y56 Merino"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dri9_image_256.t8x8aopx3yh.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dri9_image_original.23aie65fjgx.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2dri9_image_512.xlbvck82tmp.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drii",
-                "name": {
-                    "default": "Flint (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drii_image_original.fxv2vw3i15d.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drii_image_256.bgjs6ug5ha5.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drii_image_512.zn76fy3pxoi.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drlf",
-                "name": {
-                    "default": "Foil (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlf_image_256.6289nngsq65.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlf_image_original.nzii68vtkfd.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlf_image_512.fjjavk64wk7.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drlg",
-                "name": {
-                    "default": "Frozen (S) N23 Neutral Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlg_image_original.7aubjmmab5.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlg_image_256.jr3olsiegn.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlg_image_512.2xqlw90t8pr.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drlp",
-                "name": {
-                    "default": "Frozen (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlp_image_256.irh09ysz58i.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlp_image_original.gv7ip3jjtsm.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlp_image_512.fopdqbws64k.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drl2",
-                "name": {
-                    "default": "Ice (S) N14 White"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drl2_image_256.dgsca4gimyt.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drl2_image_original.q8cmdk3u89l.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drl2_image_512.weibbkildp.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drlb",
-                "name": {
-                    "default": "Heritage (S) N64 Dark Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlb_image_original.es7z85w2vu8.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlb_image_256.6annuojkolk.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drlb_image_512.dxt5c8ipvsh.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drkg",
-                "name": {
-                    "default": "Graphite (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkg_image_256.ewqtwcm6yfj.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkg_image_original.3ny19q9bcr1.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkg_image_512.xd1833ppjnq.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drkp",
-                "name": {
-                    "default": "Granite (S) N23 Neutral Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkp_image_256.dcvs6a8lxos.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkp_image_original.d9jd3x49ynr.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkp_image_512.9wwvyr9wbbd.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drk2",
-                "name": {
-                    "default": "Mist (S) N23 Neutral Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drk2_image_original.a8wyraf6khh.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drk2_image_512.0jg6pr2irm7.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drk2_image_256.5d7torm3fvs.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drkb",
-                "name": {
-                    "default": "Night Sky (S) N61 Black"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkb_image_original.unh8dx6g498.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkb_image_512.j3xd7wggv7s.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkb_image_256.3a2xcz4i93m.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drkc",
-                "name": {
-                    "default": "Outback (S) Y56 Merino"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkc_image_512.puiviwt982.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkc_image_original.zey9cg4d37g.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drkc_image_256.jyl5tk6b60e.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drg5",
-                "name": {
-                    "default": "Pebble (S) N23 Neutral Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drg5_image_original.oglupnu9kb.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drg5_image_256.x0v174zx6ye.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drg5_image_512.5etnge4csql.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drge",
-                "name": {
-                    "default": "Red Earth (S) Y56 Merino"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drge_image_original.ajtrgte8eh6.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drge_image_256.xlxr70a12o.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drge_image_512.qtyel37235e.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drfr",
-                "name": {
-                    "default": "Slate (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drfr_image_256.etg8xbuf464.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drfr_image_original.efop98mdsoi.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drfr_image_512.970txdqiw4i.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "2drfs",
-                "name": {
-                    "default": "Suede (S) N43 Pipeline Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drfs_image_original.n7iiv7bjmbi.png",
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drfs_image_256.ombcwg3yimp.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/2drfs_image_512.v2oos6bm4mc.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "lh67",
-                "name": {
-                    "default": "Graphite (S) N64 Dark Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_thumbnail_256__61bad483.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_thumbnail_512__989df77c.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_original__b18ed90c.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            },
-            {
-                "id": "lh57",
-                "name": {
-                    "default": "Graphite (N) N64 Dark Grey"
-                },
-                "visibleOnLite": true,
-                "type": "epoxy",
-                "image": {
-                    "small": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_thumbnail_256__dad0692f.png",
-                    "medium": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_thumbnail_512__be4bd382.png",
-                    "large": "https://d2xsg7d4c6iu77.cloudfront.net/account/1egim/product/1e7cj/main__image_original__f6ce0e7e.png"
-                },
-                "rgbaColor": null,
-                "labels": []
-            }
-        ]
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
     },
-    "pages": 1
+    {
+      "name": "Camo (L) N43 Pipeline Grey",
+      "image": "/CamoLN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Camo (N) N43 Pipeline Grey",
+      "image": "/CamoNN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Ash (N) N43 Pipeline Grey",
+      "image": "/AshNN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Ash (S) N23 Neutral Grey",
+      "image": "/AshSN23NeutralGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Camo (S) N14 White",
+      "image": "/CamoSN14White.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Ash (S) N43 Pipeline Grey",
+      "image": "/AshSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Camo (S) N43 Pipeline Grey",
+      "image": "/CamoSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Biscuit (S) Y56 Merino",
+      "image": "/BiscuitSY56Merino.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Capri (S) Y56 Merino",
+      "image": "/CapriSY56Merino.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Blue Storm (L) N23 Neutral Grey",
+      "image": "/BlueStormLN23NeutralGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Carbon Black (S) N61 Black",
+      "image": "/CarbonBlackSN61Black.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Blue Storm (L) N43 Pipeline Grey",
+      "image": "/BlueStormLN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Cookies&Cream (L) N14 White",
+      "image": "/CookiesCreamLN14White.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Bullseye (J) N14 White",
+      "image": "/BullseyeJN14White.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Cookies&Cream (L) N23 Neutral Grey",
+      "image": "/CookiesCreamLN23NeutralGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Bullseye (J) N61 Black",
+      "image": "/BullseyeJN61Black.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Cookies&Cream (S) N14 White",
+      "image": "/CookiesCreamSN14White.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Bullseye (L) N14 White",
+      "image": "/BullseyeLN14White.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Cookies&Cream (S) N43 Pipeline Grey",
+      "image": "/CookiesCreamSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Bullseye (L) N23 Neutral Grey",
+      "image": "/BullseyeLN23NeutralGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Desert (S) N14 White",
+      "image": "/DesertSN14White.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Camo (L) N14 White",
+      "image": "/CamoLN14White.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Eggshell (S) Y56 Merino",
+      "image": "/EggshellSY56Merino.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Flint (S) N43 Pipeline Grey",
+      "image": "/FlintSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Foil (S) N43 Pipeline Grey",
+      "image": "/FoilSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Frozen (S) N23 Neutral Grey",
+      "image": "/FrozenSN23NeutralGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Frozen (S) N43 Pipeline Grey",
+      "image": "/FrozenSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Ice (S) N14 White",
+      "image": "/IceSN14White.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Heritage (S) N64 Dark Grey",
+      "image": "/HeritageSN64DarkGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Graphite (S) N43 Pipeline Grey",
+      "image": "/GraphiteSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Granite (S) N23 Neutral Grey",
+      "image": "/GraniteSN23NeutralGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Mist (S) N23 Neutral Grey",
+      "image": "/MistSN23NeutralGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Night Sky (S) N61 Black",
+      "image": "/NightSkySN61Black.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Outback (S) Y56 Merino",
+      "image": "/OutbackSY56Merino.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Pebble (S) N23 Neutral Grey",
+      "image": "/PebbleSN23NeutralGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Red Earth (S) Y56 Merino",
+      "image": "/RedEarthSY56Merino.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Slate (S) N43 Pipeline Grey",
+      "image": "/SlateSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Suede (S) N43 Pipeline Grey",
+      "image": "/SuedeSN43PipelineGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Graphite (S) N64 Dark Grey",
+      "image": "/GraphiteSN64DarkGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    },
+    {
+      "name": "Graphite (N) N64 Dark Grey",
+      "image": "/GraphiteNN64DarkGrey.png",
+      "isGloss": 0,
+      "isTransparent": 0,
+      "isRGB": false,
+      "isTexture": true,
+      "isTimber": false,
+      "smartDefaults": {
+        "position": {
+          "desktop": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "mobile": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        "rotation": {
+          "x": "calc(110 - (relativeMaskTop * 20))",
+          "y": 0,
+          "z": 0
+        },
+        "scale": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "texture": {
+          "scale": "calc(500 + (relativeMaskTop * 700))",
+          "sharpness": 16
+        }
+      }
+    }
+  ]
 }
